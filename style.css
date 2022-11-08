@@ -91,6 +91,9 @@ footer p{
 #footerp{
 
 }
+#banner{
+  align-self: right;
+}
 
 nav {
   z-index: 5;
